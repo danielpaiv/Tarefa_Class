@@ -4,9 +4,9 @@ public class NumeroPedido {
     private int pedido;   //Propiedade da class.
 
     /***
-     * Para cada propiedade são dios métodos GET e SET que pode ser criado automaticamente assim dará
+     * Para cada propiedade s&atilde;o dios m&eacute;todos GET e SET que pode ser criado automaticamente assim dar&aacute;
      * acesso as outras classes .
-     * @detalhes da função dos métodos
+     * @return  da fun&ccedil;&atilde;o dos m&eacute;todos
      */
 
     public int getPedido() {  //Método da propiedade pedido GET
@@ -17,12 +17,5 @@ public class NumeroPedido {
         this.pedido = pedido;
     }
 
-
-    /***
-     * esse método fucina bem mais perderia mais tempo editando.
-     */
-//    public void cadastrarPedido() {
-//        this.pedido= (25);
-//   }
 
 }

@@ -6,8 +6,8 @@ public class Cliente { // Class
 
     /***
      * Para cada propiedade são dios métodos GET e SET que pode ser criado automaticamente assim dará
-     * acesso as outras clssses.
-     * @return
+     * acesso as outras classes
+     * @return retor ao nome
      */
     public String getNome() {  //Método da propiedade nome GET.
         return nome;

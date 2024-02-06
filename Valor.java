@@ -1,4 +1,5 @@
-public class Valor { // Class
+// Class
+public class Valor {
 
     private int valor; // Propiedade da class.
 

@@ -1,4 +1,5 @@
-public class Prato { // Class
+// Class
+public class Prato {
 
     private String prato; // Propiedade da class.
 

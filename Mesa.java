@@ -1,4 +1,5 @@
-public class Mesa { // Class
+// Class
+public class Mesa {
 
     private int mesa; //Propiedade da class.
 
